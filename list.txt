@@ -1,14 +1,10 @@
-//italian whitelist
 fastwebnet.it
 outlook.it
 legalmail.it
 mip.polimi.it
 tim.it
 aruba.it
-
-//typos
 gmail.con
 gmil.com
 gmal.com
 gmail.it
-
