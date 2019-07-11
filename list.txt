@@ -18,3 +18,4 @@ gmail.it
 pec.it
 vodafone.it
 posta.fastwebnet.it
+blu.it
