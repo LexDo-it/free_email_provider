@@ -19,6 +19,7 @@ legalmail.it
 lexdo.it
 mail.ru
 mip.polimi.it
+notariato.it
 outlook.it
 pec.it
 posta.fastwebnet.it
