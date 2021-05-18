@@ -30,3 +30,4 @@ tiscalinet.it
 unicredit.eu
 uniroma1.it
 vodafone.it
+giallo.it
