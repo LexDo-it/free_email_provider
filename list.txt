@@ -5,6 +5,7 @@ coldiretti.it
 fastwebnet.com
 fastwebnet.it
 gamail.com
+giallo.it
 gmai.com
 gmail.con
 gmail.it
@@ -19,6 +20,7 @@ legalmail.it
 lexdo.it
 mail.ru
 mip.polimi.it
+my.com
 notariato.it
 outlook.it
 pec.it
@@ -30,4 +32,3 @@ tiscalinet.it
 unicredit.eu
 uniroma1.it
 vodafone.it
-giallo.it
